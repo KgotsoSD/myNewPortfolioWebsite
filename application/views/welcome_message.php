@@ -98,7 +98,7 @@
                   <div class="count-box">
                     <i class="icofont-clock-time" style="color: #2cbdee;"></i>
                     <span data-toggle="counter-up">1</span>
-                    <p><strong>Years of experience</strong> I am new in the industry and so far I am moving towards a year of experience</p>
+                    <p><strong>Years of experience</strong> I am still new in the industry and therefore I am building a year of experience</p>
                   </div>
                 </div>
 
